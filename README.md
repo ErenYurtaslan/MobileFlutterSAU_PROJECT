@@ -1,1 +1,1 @@
-# Mobile_English-Turkish_FLIPCARD_Project_FLUTTER_SAU_computerEngineering
+# MobileApp_English-Turkish_FLIPCARD_Project_FLUTTER_SAU_computerEngineering
