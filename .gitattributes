@@ -1,0 +1,2 @@
+kelime_oyunu_sau_mobil_project.zip filter=lfs diff=lfs merge=lfs -text
+kelime_oyunu_sau_mobil_odev.zip filter=lfs diff=lfs merge=lfs -text
